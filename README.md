@@ -1,6 +1,7 @@
-![266776543-7450c601-1143-4570-a062-15a9b83d5ead](https://github.com/Rekashi24/Summer-Project/assets/144529676/85862a84-75c4-46c6-85a4-2a069b78938e)
+
 Project Title: "TechFusion 2023: Unleashing Linux's Power with Python GUI (Tkinter) and Web Magic"
 Mentor: Vimal Daga, Your Guide to the Linux Wonderland
+
 
 Welcome to TechFusion 2023, where we fuse cutting-edge technology with the magic of Linux! Under the expert guidance of Mr. Vimal Daga, we invite you on an exciting journey into the heart of the Linux world. Our project seamlessly blends the elegance of Tkinter menus with the convenience of web-based integration, creating an unparalleled Linux experience.
 
@@ -37,3 +38,5 @@ Thank you for joining us on this captivating voyage through the Linux universe. 
 Get ready to embark on your Linux adventure and experience the thrill of "TechFusion 2023"!
 
 🚀 Happy Computing! 🐧💻
+![266776543-7450c601-1143-4570-a062-15a9b83d5ead](https://github.com/Rekashi24/Summer-Project/assets/144529676/85862a84-75c4-46c6-85a4-2a069b78938e)
+![266777262-eaf40f0c-85f6-4d44-a55c-6032a5a97ead](https://github.com/Rekashi24/Summer-Project/assets/144529676/b3dcb3a7-5f41-442e-b57e-0c9436c10837)
